@@ -53,11 +53,6 @@ pytz
 requests-oauthlib
 rsa
 sniffio
-tensorboard
-tensorboard-data-server
-tensorflow-estimator
-tensorflow-hub
-tensorflow-io-gcs-filesystem
 termcolor
 tf-keras
 typing_extensions
