@@ -34,5 +34,6 @@ class ChatBot(Resource):
 
         result = {
             "system": respon,
+            "user": user_message
         }
         return result
