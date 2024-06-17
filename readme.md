@@ -6,7 +6,7 @@
 
 ### BASE URL
 
-- https://chat-api-tpercgplna-et.a.run.app/
+- 
 
 #### Post Chat Bot
 
