@@ -6,7 +6,7 @@
 
 ### BASE URL
 
-- https://chat-api-tpercgplna-et.a.run.app/
+- 
 
 #### Post Chat Bot
 
@@ -22,6 +22,8 @@
 
 ```json
 {
-	"system": "string"
+	"system": "string",
+	"user": "string",
+	"created_at": "11:12"
 }
 ```
