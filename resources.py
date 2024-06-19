@@ -10,7 +10,7 @@ load_dotenv()
 class ChatBot(Resource):
     @token_required
     def post(self):
-        user_message = request.form['caption']
+        user_message = request.json['caption']
         test_case = groq_client.chat.completions.create(
             messages=[
                 {
